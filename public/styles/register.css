@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+body { 
+    background-size: cover;
+    background-color:  #fb511b;
+}
+.container-icon {
+    text-align: center; 
+    color: white; 
+    font-size: 45px; 
+    font-weight: 400; 
+}
+.container {
+background-color: white; 
+margin-bottom: 50px;
+border-style: ridge;
+}
+.header {
+    text-align: center;
+    color: #fb511b;
+    padding-top: 60px; 
+    padding-bottom: 10px; 
+}
+.login {
+    font-size: 25px; 
+}
+.below {
+    text-align: center;
+}
+.info {
+    font-weight: bold; 
+    padding: 25px; 
+}
+.reg {
+    margin-bottom: 30px; 
+}

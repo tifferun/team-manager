@@ -1,0 +1,28 @@
+.add-form {
+    margin-top: 10px;
+
+}
+h1 {
+    margin-top: 10px;
+    color: white;
+    font-size: 55px;
+   
+}
+
+.page-title {
+    background-color: #fb511b;
+}
+.table-head {
+    background-color: seagreen;
+    color: white; 
+    font-size: 20px; 
+    border-style: groove;
+    }
+.make-orange {
+    background-color: black;
+    color: white;
+}
+.add-button {
+    background-color: black;
+    color: white;
+}
